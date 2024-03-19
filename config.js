@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['2349064616550', 'GURU', true],
+  ['2349064616550', 'Ash', true], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "2349064616550" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -25,8 +25,8 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.APIs = { // API Prefix
-  // name: 'https://website'
+global.APIs = { /// API Prefix
+  /Umaranas/ name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
   dzx: 'https://api.dhamzxploit.my.id',
   lol: 'https://api.lolhuman.xyz',
@@ -53,7 +53,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
 global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.author = '@Umarnaas' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
